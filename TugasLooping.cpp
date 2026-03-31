@@ -1,7 +1,7 @@
-void tampilHasilPrima() {
-    if (isPrima(angka)) {
-        cout << angka << " adalah bilangan prima.\n";
+void tampilHasilFibonacci() {
+    if (isFibonacci(angka)) {
+        cout << angka << " termasuk bilangan Fibonacci.\n";
     } else {
-        cout << angka << " bukan bilangan prima.\n";
+        cout << angka << " bukan bilangan Fibonacci.\n";
     }
 }
