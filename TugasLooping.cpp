@@ -1,4 +1,4 @@
-case 1:
+case 2:
     inputAngka();
-    tampilHasilPrima();
+    tampilHasilFibonacci();
     break;
