@@ -1,6 +1,6 @@
 int main() {
-    menu();
-    cin >> pilihan;
-
-    return 0;
+    while (true) {
+        menu();
+        cin >> pilihan;
+    }
 }
