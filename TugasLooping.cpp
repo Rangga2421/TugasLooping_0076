@@ -1,7 +1,7 @@
-void tampilHasilFibonacci() {
-    if (isFibonacci(angka)) {
-        cout << angka << " termasuk bilangan Fibonacci.\n";
-    } else {
-        cout << angka << " bukan bilangan Fibonacci.\n";
-    }
+void menu() {
+    cout << "\n=== MENU ===\n";
+    cout << "1. Cek Bilangan Prima\n";
+    cout << "2. Cek Bilangan Fibonacci\n";
+    cout << "0. Keluar\n";
+    cout << "Pilih menu: ";
 }
