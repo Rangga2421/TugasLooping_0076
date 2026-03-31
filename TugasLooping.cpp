@@ -5,6 +5,10 @@ using namespace std;
 int angka;
 int pilihan;
 
+bool isPrima(int n) {
+
+}
+
 int main(){
 
     return 0;
