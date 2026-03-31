@@ -1,15 +1,3 @@
-#include <iostream>
-using namespace std;
-
-// Variabel global
-int angka;
-int pilihan;
-
 bool isPrima(int n) {
-
-}
-
-int main(){
-
-    return 0;
+    if (n <= 1) return false;
 }
